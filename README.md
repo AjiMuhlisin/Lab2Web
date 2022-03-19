@@ -64,7 +64,7 @@
 
 3.	Deklarasi yang akan tampil yaitu inline karena deklarasinya langsung di internal sedangkan untuk deklarsi eksternal harus ditautakan terlebih dahulu dengan deklarasi internalnya baru bisa tampil di browser
 Contoh :
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -72,7 +72,7 @@ Contoh :
         <title>CSS DASAR</title>
         <link rel="stylesheet" href="style_eksternal.css">
         </head>
-        
+
 4. Selector ID yang akan tampil terlebih dahulu karena secetor ID hanya bisa digunakan satu kali dan apabila digunakan lebih dari satu kali pada halaman maka style hanya berlaku pada halaman pertama
 Contoh :
 <!DOCTYPE html>
@@ -95,4 +95,4 @@ Contoh :
             <a href="lab2_CSS_Dasar.html">CSS DASAR</a>
             <a href="lab2_CSS_Eksternal.html">CSS Eksternal</a>
             <a href="lab1_tag_Dasar.html">HTML DASAR</a>
-        </nav>
+        </nav> -->
